@@ -17,3 +17,5 @@ A collection of links on the topic of Apple Combine
 * https://www.pointfree.co/episodes/ep80-the-combine-framework-and-effects-part-1
 *
 * https://youtu.be/-Ub4k0NunVU
+* 
+* https://www.objc.io/books/thinking-in-swiftui/
