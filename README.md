@@ -4,6 +4,7 @@ A collection of links on the topic of Apple Combine
 * https://developer.apple.com/videos/play/wwdc2019/721/
 * 
 * https://www.donnywals.com/using-promises-and-futures-in-combine/
+* https://youtu.be/0AmNvcxVpKk
 * 
 * https://www.avanderlee.com/swift/combine/
 * https://www.avanderlee.com/swift/custom-combine-publisher/
