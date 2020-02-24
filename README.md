@@ -12,3 +12,5 @@ A collection of links on the topic of Apple Combine
 * https://www.avanderlee.com/debugging/combine-swift/
 * 
 * https://www.pointfree.co/episodes/ep80-the-combine-framework-and-effects-part-1
+*
+* https://youtu.be/-Ub4k0NunVU
