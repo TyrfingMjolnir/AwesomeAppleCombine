@@ -4,6 +4,8 @@ A collection of links on the topic of Apple Combine
 * https://developer.apple.com/videos/play/wwdc2019/721/
 * https://developer.apple.com/videos/play/wwdc2019/722/
 * 
+* https://www.youtube.com/watch?v=Z72w5NtmyjM
+*
 * https://www.donnywals.com/category/combine
 * https://youtu.be/0AmNvcxVpKk
 * 
