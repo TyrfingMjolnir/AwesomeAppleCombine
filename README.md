@@ -1,4 +1,4 @@
-# AwesomeAppleCombine
+# Awesome Apple Combine
 A collection of links on the topic of Apple Combine
 
 * https://developer.apple.com/videos/play/wwdc2019/721/
