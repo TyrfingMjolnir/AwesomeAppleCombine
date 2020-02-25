@@ -1,5 +1,5 @@
 # Awesome Apple Combine
-A collection of links on the topic of Apple Combine
+A collection of links on the topic of Apple Combine the Functional Reactive Programming approach the Apple native way
 
 ## Presentations by author
 * https://developer.apple.com/videos/play/wwdc2019/721/
