@@ -2,14 +2,16 @@
 A collection of links on the topic of Apple Combine – the Functional Reactive Programming approach the Apple native way
 
 ## Presentations by author
+* Apple
 * https://developer.apple.com/videos/play/wwdc2019/721/
 * https://developer.apple.com/videos/play/wwdc2019/722/
 * 
 * https://www.youtube.com/watch?v=Z72w5NtmyjM
 *
+* Donny Wals
 * https://www.donnywals.com/category/combine
 * https://youtu.be/0AmNvcxVpKk
-* 
+*
 * https://www.avanderlee.com/swift/combine/
 * https://www.avanderlee.com/swift/custom-combine-publisher/
 * https://www.avanderlee.com/swift/combine-error-handling/
@@ -17,6 +19,7 @@ A collection of links on the topic of Apple Combine – the Functional Reactive 
 * 
 * https://www.pointfree.co/episodes/ep80-the-combine-framework-and-effects-part-1
 *
+* Tomás Ruiz-López 
 * https://youtu.be/-Ub4k0NunVU
 
 ## Books
