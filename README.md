@@ -26,7 +26,7 @@ A collection of links on the topic of Apple Combine – the Functional Reactive 
 * https://youtu.be/-Ub4k0NunVU
 
 ## Books
-* ObjcIO aka Chris Eidhof and Florian Kugler 
+### ObjcIO aka Chris Eidhof and Florian Kugler 
 * https://www.objc.io/books/thinking-in-swiftui/
-*
+### Joseph Heck
 * https://heckj.github.io/swiftui-notes/
