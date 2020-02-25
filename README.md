@@ -1,6 +1,7 @@
 # Awesome Apple Combine
 A collection of links on the topic of Apple Combine
 
+## Presentations by author
 * https://developer.apple.com/videos/play/wwdc2019/721/
 * https://developer.apple.com/videos/play/wwdc2019/722/
 * 
@@ -17,5 +18,8 @@ A collection of links on the topic of Apple Combine
 * https://www.pointfree.co/episodes/ep80-the-combine-framework-and-effects-part-1
 *
 * https://youtu.be/-Ub4k0NunVU
-* 
+
+## Books
 * https://www.objc.io/books/thinking-in-swiftui/
+*
+* https://heckj.github.io/swiftui-notes/
