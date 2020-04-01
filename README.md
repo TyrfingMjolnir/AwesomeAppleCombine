@@ -1,6 +1,8 @@
 # Awesome Apple Combine
 A collection of links on the topic of Apple Combine – the Functional Reactive Programming approach the Apple native way
 
+Even though a project on several native platforms may benefit from the Rx approach, projects in the Apple eco system only, may benefit from using SwiftUI / Combine / .filter() / .map() / .reduce()
+
 ## Presentations by author
 ### Apple
 * https://developer.apple.com/videos/play/wwdc2019/721/
