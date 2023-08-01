@@ -28,6 +28,6 @@ Even though a project on several native platforms may benefit from the Rx approa
 * https://youtu.be/-Ub4k0NunVU
 
 ### Kelvin Fok
-https://youtu.be/lmLPEUb_Vhc
-https://youtu.be/He4IkvtKDds
-https://youtu.be/zTPE76xm54M
+* https://youtu.be/lmLPEUb_Vhc
+* https://youtu.be/He4IkvtKDds
+* https://youtu.be/zTPE76xm54M
